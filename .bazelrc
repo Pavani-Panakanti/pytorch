@@ -40,3 +40,4 @@ build:cpu-only                                  \
     --cxxopt=-Werror=missing-field-initializers \
     --cxxopt=-Werror=type-limits                \
     --cxxopt=-Werror=unused-function
+    --cxxopt=-Werror=unused-variable
